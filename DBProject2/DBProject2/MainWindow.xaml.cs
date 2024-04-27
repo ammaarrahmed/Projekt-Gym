@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace DBProject2
 {
     /// <summary>
@@ -48,10 +49,17 @@ namespace DBProject2
         }
         private void btnRegister_Click(object sender, RoutedEventArgs e)
         {
-            // Navigate to the registration page
-            RegistrationPage registrationPage = new RegistrationPage();
-            this.Content = registrationPage;
+            // Create an instance of the RegistrationPage window
+            RegistrationPage registrationWindow = new RegistrationPage();
+
+            // Show the RegistrationPage window
+            this.Close();
+            registrationWindow.Show();
+
+            // Optionally, you can close the current window
+
         }
+
         private void txtUser_TextChanged(object sender, TextChangedEventArgs e)
         {
 

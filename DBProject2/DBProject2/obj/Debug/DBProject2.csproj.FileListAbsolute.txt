@@ -32,3 +32,5 @@ C:\Users\Ammaar\Documents\GitHub\Projekt-Gym\DBProject2\DBProject2\obj\Debug\DBP
 C:\Users\Ammaar\Documents\GitHub\Projekt-Gym\DBProject2\DBProject2\obj\Debug\DBProject2.csproj.CoreCompileInputs.cache
 C:\Users\Ammaar\Documents\GitHub\Projekt-Gym\DBProject2\DBProject2\obj\Debug\DBProject2.exe
 C:\Users\Ammaar\Documents\GitHub\Projekt-Gym\DBProject2\DBProject2\obj\Debug\DBProject2.pdb
+C:\Users\Ammaar\Documents\GitHub\Projekt-Gym\DBProject2\DBProject2\obj\Debug\Styles\UIColors.baml
+C:\Users\Ammaar\Documents\GitHub\Projekt-Gym\DBProject2\DBProject2\obj\Debug\App.baml
