@@ -1,4 +1,4 @@
-﻿<Window x:Class="DBProject2.RegistrationPage"
+<Window x:Class="DBProject2.RegistrationPage"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -140,12 +140,15 @@ HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="84,160,0,254"
                     Padding="20,0,0,0" 
        />
                 <TextBlock Text="Last Name"
-                    Foreground="Black"
-                    FontSize="8"
-                    FontWeight="Light"
-                    FontFamily="Montserrat"
-
-                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="209,160,0,254" Width="41">
+    Foreground="Black"
+    FontSize="8"
+    FontWeight="Light"
+    FontFamily="Montserrat"
+    HorizontalAlignment="Left"
+    RenderTransformOrigin="0.5,0.5"
+    Margin="209,160,0,254"
+    Width="41"
+                 >
                     <TextBlock.RenderTransform>
                         <TransformGroup>
                             <ScaleTransform/>
@@ -175,11 +178,7 @@ HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="84,160,0,254"
                     <ComboBoxItem Content="Male" />
                     <ComboBoxItem Content="Female" />
                     <ComboBoxItem Content="Awais" />
-                    <ComboBox x:Name="RoleSelection_Copy1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Height="20">
-                        <ComboBoxItem Content="Customer" />
-                        <ComboBoxItem Content="Gym Owner" />
-                        <ComboBoxItem Content="Trainer" />
-                    </ComboBox>
+                    
                 </ComboBox>
                 <TextBlock Text="Gender"
                     Foreground="Black"
@@ -257,11 +256,7 @@ HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="84,160,0,254"
                     <ComboBoxItem Content="Beginner" />
                     <ComboBoxItem Content="Intermediate" />
                     <ComboBoxItem Content="Trainer" />
-                    <ComboBox x:Name="RoleSelection_Copy3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Height="20">
-                        <ComboBoxItem Content="Customer" />
-                        <ComboBoxItem Content="Gym Owner" />
-                        <ComboBoxItem Content="Trainer" />
-                    </ComboBox>
+
                 </ComboBox>
                 <TextBlock Text="Experience"
                     Foreground="Black"

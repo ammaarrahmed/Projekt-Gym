@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Y:\\Coding\\Projekt-Gym\\DBProject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|Y:\\Coding\\Projekt-Gym\\DBProject2\\dbproject2\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|solutionrelative:dbproject2\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|Y:\\Coding\\Projekt-Gym\\DBProject2\\dbproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|solutionrelative:dbproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|y:\\coding\\projekt-gym\\dbproject2\\dbproject2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|Y:\\Coding\\Projekt-Gym\\DBProject2\\dbproject2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|solutionrelative:dbproject2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|Y:\\Coding\\Projekt-Gym\\DBProject2\\dbproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|solutionrelative:dbproject2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|y:\\coding\\projekt-gym\\dbproject2\\dbproject2\\registrationpagemember.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|solutionrelative:dbproject2\\registrationpagemember.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DAC48DD-432C-4DA3-8A05-17F06B352195}|DBProject2\\DBProject2.csproj|Y:\\Coding\\Projekt-Gym\\DBProject2\\dbproject2\\styles\\uicolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -46,22 +46,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegistrationPage.xaml",
-              "DocumentMoniker": "Y:\\Coding\\Projekt-Gym\\DBProject2\\DBProject2\\RegistrationPage.xaml",
-              "RelativeDocumentMoniker": "DBProject2\\RegistrationPage.xaml",
-              "ToolTip": "Y:\\Coding\\Projekt-Gym\\DBProject2\\DBProject2\\RegistrationPage.xaml",
-              "RelativeToolTip": "DBProject2\\RegistrationPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-25T18:33:30.278Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
@@ -69,9 +53,21 @@
               "RelativeDocumentMoniker": "DBProject2\\MainWindow.xaml.cs",
               "ToolTip": "Y:\\Coding\\Projekt-Gym\\DBProject2\\DBProject2\\MainWindow.xaml.cs",
               "RelativeToolTip": "DBProject2\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T18:20:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationPageMember.xaml",
+              "DocumentMoniker": "Y:\\Coding\\Projekt-Gym\\DBProject2\\DBProject2\\RegistrationPageMember.xaml",
+              "RelativeDocumentMoniker": "DBProject2\\RegistrationPageMember.xaml",
+              "ToolTip": "Y:\\Coding\\Projekt-Gym\\DBProject2\\DBProject2\\RegistrationPageMember.xaml",
+              "RelativeToolTip": "DBProject2\\RegistrationPageMember.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T18:33:30.278Z",
               "EditorCaption": ""
             },
             {
@@ -88,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "Y:\\Coding\\Projekt-Gym\\DBProject2\\DBProject2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DBProject2\\MainWindow.xaml",

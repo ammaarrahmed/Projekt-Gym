@@ -1,0 +1,520 @@
+﻿<Window x:Class="DBProject2.RegistrationPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:DBProject2"
+       mc:Ignorable="d"
+        Title="Registration Page" Height="600" Width="650">
+    <Window.Resources>
+        <Sys:Double x:Key="fontsizeTitle">30.0</Sys:Double>
+        <Sys:Double x:Key="fontsizesubText">15.0</Sys:Double>
+        <Sys:Double x:Key="fontsizesubHead">15.0</Sys:Double>
+        <Sys:Double x:Key="fontsizeText">12.0</Sys:Double>
+
+
+    </Window.Resources>
+    <Border CornerRadius="12">
+        <!--<Border.Background>
+            <ImageBrush ImageSource="/IMG_0366.jpg"
+                     Stretch="Fill"/>
+        </Border.Background>-->
+
+        <Border CornerRadius="10"                    
+         BorderThickness="2"
+         Opacity="0.9">
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="{StaticResource winBorderColor1}" Offset="0"/>
+                    <GradientStop Color="{StaticResource winBorderColor2}" Offset="0.75"/>
+                    <GradientStop Color="{StaticResource winBorderColor3}" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <!--<Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+
+                </LinearGradientBrush>
+            </Border.Background>-->
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10" />
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <!--<Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>-->
+                <ComboBox 
+                    Grid.Row="0"
+                    x:Name="RoleSelection" HorizontalAlignment="Left" Margin="400,204,0,0" Padding="20,0,0,0"  VerticalAlignment="Top" Width="148" Height="23">
+                    <ComboBoxItem Content="Customer" />
+                    <ComboBoxItem Content="Gym Owner" />
+                    <ComboBoxItem Content="Trainer" />
+                    >
+
+                </ComboBox>
+                <!-- Text Boxes -->
+                <TextBlock Text="REGISTRATION"
+           Foreground="Black"
+           FontSize="{Binding Source={StaticResource fontsizeTitle}}"
+           FontWeight="Medium"
+           FontFamily="Montserrat"
+           Opacity="1.0"
+           HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5" Height="28" Margin="0,73,0,329">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+
+                <TextBlock Text="Please fill the form carefully"
+Foreground="Black"
+FontSize="{Binding Source={StaticResource fontsizesubText}}"
+FontWeight="Light"
+FontFamily="Montserrat"
+Opacity="1.0"
+HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5" Height="28" Margin="0,103,0,300">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Name"
+Foreground="Black"
+FontSize="{Binding Source={StaticResource fontsizesubText}}"
+FontWeight="SemiBold"
+FontFamily="Montserrat"
+
+HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="83,184,0,234" Width="41">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="First Name"
+Foreground="Black"
+FontSize="{Binding Source={StaticResource fontsizeText}}"
+FontWeight="Light"
+FontFamily="Montserrat"
+
+HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="82,232,0,182" Width="63">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <!--<StackPanel x:Name="CustomerFields" Visibility="Collapsed">
+                    <Label Content="First Name" />
+                    <TextBox x:Name="FirstName" />
+                    <Label Content="Last Name" />
+                    <TextBox x:Name="LastName" />
+                    <Label Content="Gender" />
+                    <ComboBox x:Name="Gender">
+                        <ComboBoxItem Content="Male" />
+                        <ComboBoxItem Content="Female" />
+                    </ComboBox>
+                    <Label Content="Height" />
+                    <TextBox x:Name="Height" />
+                    <Label Content="Weight (in Kg)" />
+                    <TextBox x:Name="Weight" />
+                    <Label Content="Experience" />
+                    <TextBox x:Name="Experience" />
+                    <Label Content="Gym Name" />
+                    <TextBox x:Name="GymName" />
+                    <Label Content="Username" />
+                    <TextBox x:Name="Username" />
+                    <Label Content="Password" />
+                    <PasswordBox x:Name="Password" />
+                    <Label Content="Confirm Password" />
+                    <PasswordBox x:Name="ConfirmPassword" />
+                    <Label Content="Email" />
+                    <TextBox x:Name="Email" />
+                    <Label Content="Date of Birth" />
+                    <DatePicker x:Name="DOB" />
+                </StackPanel>-->
+
+                <TextBox x:Name="txtUser"
+         FontSize="13"
+         FontWeight="Medium"
+         FontFamily="Montserrat"                            
+         Foreground="LightBlue"
+         CaretBrush="LightBlue"
+         BorderBrush="LightBlue"
+         BorderThickness=".5,.5,0.5,0.5"
+         VerticalContentAlignment="Center"
+         Margin="81,204,418,209" 
+         Padding="20,0,0,0" >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+
+                <TextBlock Text="Last Name"
+    Foreground="Black"
+    FontSize="{Binding Source={StaticResource fontsizeText}}"
+    FontWeight="Light"
+    FontFamily="Montserrat"
+    HorizontalAlignment="Left"
+    RenderTransformOrigin="0.5,0.5"
+    Margin="240,231,0,183"
+    Width="73"
+                 >
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Account Type"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="3.341,0.477" Margin="398,230,0,184" Width="92">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform X="0" Y="-0.109"/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Gender"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="82,324,0,90" Width="58">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="DoB"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="242,323,0,91" Width="37">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Height (cm)"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="242,385,0,29" Width="65">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.493"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Experience"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="85,385,0,29" Width="77">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Weight (kg)"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="406,386,0,28" Width="67">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Personal Details"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizesubText}}"
+
+                    FontWeight="SemiBold"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="83,275,0,143" Width="114">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Account Credentials"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizesubText}}"
+
+                    FontWeight="SemiBold"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="83,432,0,-14" Width="140" Grid.RowSpan="3">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBox x:Name="txtUser_Copy"
+                    FontSize="13"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"                            
+                    Foreground="LightBlue"
+                    CaretBrush="LightBlue"
+                    BorderBrush="LightBlue"
+                    BorderThickness=".5,.5,0.5,0.5"
+                    VerticalContentAlignment="Center"
+                    Margin="238,204,260,209"
+                    Padding="20,0,0,0" 
+       >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <TextBox x:Name="txtUser_Copy7"
+                    FontSize="13"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"                            
+                    Foreground="LightBlue"
+                    CaretBrush="LightBlue"
+                    BorderBrush="LightBlue"
+                    BorderThickness=".5,.5,0.5,0.5"
+                    VerticalContentAlignment="Center"
+                    Margin="238,297,260,116"
+                    Padding="20,0,0,0" 
+       >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <ComboBox 
+                    Grid.Row="0"
+                    x:Name="RoleSelection_Copy" HorizontalAlignment="Left" Margin="81,357,0,0"
+                    Padding="20,0,0,0"  VerticalAlignment="Top" Width="147" Height="23">
+                    <ComboBoxItem Content="Customer" />
+                    <ComboBoxItem Content="Gym Owner" />
+                    <ComboBoxItem Content="Trainer" />
+                </ComboBox>
+                <TextBox x:Name="txtUser_Copy2"
+                    FontSize="13"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"                            
+                    Foreground="LightBlue"
+                    CaretBrush="LightBlue"
+                    BorderBrush="LightBlue"
+                    BorderThickness=".5,.5,0.5,0.5"
+                    VerticalContentAlignment="Center"
+                    Margin="238,357,260,56"
+                    Padding="20,0,0,0" 
+       >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <TextBox x:Name="txtUser_Copy4"
+                    FontSize="13"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"                            
+                    Foreground="LightBlue"
+                    CaretBrush="LightBlue"
+                    BorderBrush="LightBlue"
+                    BorderThickness=".5,.5,0.5,0.5"
+                    VerticalContentAlignment="Center"
+                    Margin="402,357,98,56"
+                    Padding="20,0,0,0" 
+       >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <ComboBox 
+                    Grid.Row="0"
+                    x:Name="RoleSelection_Copy1" HorizontalAlignment="Left" Margin="81,297,0,0"
+                    Padding="20,0,0,0"  VerticalAlignment="Top" Width="147" Height="23">
+                    <ComboBoxItem Content="Customer" />
+                    <ComboBoxItem Content="Gym Owner" />
+                    <ComboBoxItem Content="Trainer" />
+                </ComboBox>
+                <TextBox x:Name="txtUser_Copy1"
+                    FontSize="13"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"                            
+                    Foreground="LightBlue"
+                    CaretBrush="LightBlue"
+                    BorderBrush="LightBlue"
+                    BorderThickness=".5,.5,0.5,0.5"
+                    VerticalContentAlignment="Center"
+                    Margin="81,18,418,-41"
+                    Padding="20,0,0,0" Grid.Row="2" 
+       >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <TextBox x:Name="txtUser_Copy3"
+                    FontSize="13"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"                            
+                    Foreground="LightBlue"
+                    CaretBrush="LightBlue"
+                    BorderBrush="LightBlue"
+                    BorderThickness=".5,.5,0.5,0.5"
+                    VerticalContentAlignment="Center"
+                    Margin="238,18,260,-41"
+                    Padding="20,0,0,0" Grid.Row="2" 
+      >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <TextBox x:Name="txtUser_Copy5"
+                    FontSize="13"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"                            
+                    Foreground="LightBlue"
+                    CaretBrush="LightBlue"
+                    BorderBrush="LightBlue"
+                    BorderThickness=".5,.5,0.5,0.5"
+                    VerticalContentAlignment="Center"
+                    Margin="400,18,100,-41"
+                    Padding="20,0,0,0" Grid.Row="2" 
+       >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="3"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <TextBlock Text="Email"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="85,49,0,-71" Width="41" Grid.Row="2">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Password"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="242,47,0,-69" Width="67" Grid.Row="2">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Confirm Password"
+                    Foreground="Black"
+                    FontSize="{Binding Source={StaticResource fontsizeText}}"
+                    FontWeight="Light"
+                    FontFamily="Montserrat"
+
+                    HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Margin="406,47,0,-69" Width="124" Grid.Row="2">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.054"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+
+                <!-- Add similar StackPanels for Gym Owner and Trainer roles here -->
+            </Grid>
+        </Border>
+
+    </Border>
+
+</Window>
