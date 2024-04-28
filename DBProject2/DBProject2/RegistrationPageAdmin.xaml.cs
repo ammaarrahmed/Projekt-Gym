@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace DBProject2
 {
     /// <summary>
-    /// Interaction logic for RegistrationPageTrainer.xaml
+    /// Interaction logic for RegistrationPageAdmin.xaml
     /// </summary>
-    public partial class RegistrationPageTrainer : Window
+    public partial class RegistrationPageAdmin : Window
     {
-        public RegistrationPageTrainer()
+        public RegistrationPageAdmin()
         {
             InitializeComponent();
         }

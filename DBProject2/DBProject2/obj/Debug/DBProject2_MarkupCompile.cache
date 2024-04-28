@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 Y:\Coding\Projekt-Gym\DBProject2\DBProject2\App.xaml
-3-1016299659
+51282479647
 
-6-4234473
+877930185
 13-1310406943
-MainWindow.xaml;RegistrationPageMember.xaml;Styles\UIColors.xaml;
+MainWindow.xaml;RegistrationPageAdmin.xaml;RegistrationPageMember.xaml;RegistrationPageTrainer.xaml;Styles\UIColors.xaml;
 
 False
 

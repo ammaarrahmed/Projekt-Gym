@@ -50,7 +50,7 @@ namespace DBProject2
         private void btnRegister_Click(object sender, RoutedEventArgs e)
         {
             // Create an instance of the RegistrationPage window
-            RegistrationPage registrationWindow = new RegistrationPage();
+            RegistrationPageTrainer registrationWindow = new RegistrationPageTrainer();
 
             // Show the RegistrationPage window
             this.Close();
