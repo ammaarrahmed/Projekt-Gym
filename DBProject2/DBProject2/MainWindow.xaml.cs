@@ -40,7 +40,16 @@ namespace DBProject2
         }
         private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
+            // Create an instance of the RegistrationPage window
+           
+            Customer customerwindow = new Customer();
+            this.Close();
+            customerwindow.Show();
 
+            // Show the RegistrationPage window
+          
+
+            // Optionally, you can close the current window
         }
 
         private void cmbAccountType_SelectionChanged(object sender, SelectionChangedEventArgs e)
