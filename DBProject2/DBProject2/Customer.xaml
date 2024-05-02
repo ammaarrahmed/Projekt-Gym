@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
         xmlns:local="clr-namespace:DBProject2"
         mc:Ignorable="d"
         Title="Customer" Height="450" Width="800"
@@ -183,7 +184,34 @@ Click="btnClose_Click" RenderTransformOrigin="2.628,2.194">
                             </Button.Template>
                         </Button>
                     </StackPanel>
-                  
+                  <!--header-->
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0"
+                                    Orientation="Horizontal"
+                                    VerticalAlignment="Center">
+                            <fa:IconImage Icon="home"
+                                                  Height="20"
+                                                  Width="20"
+                                                  Foreground="{StaticResource titleColor2}"
+                                                  Margin="35,90,10,0"/>
+                            <TextBlock Text="Dashboard"
+                                       Foreground="{StaticResource titleColor2}"
+                                       FontSize="10"
+                                       FontFamily="MontSerrat"
+                                       FontWeight="Medium"
+                                       VerticalAlignment="Center"/>
+                        </StackPanel>
+                       
+
+                    </Grid>
+                    <Button Content="create Workout" HorizontalAlignment="Left" Height="29" Margin="23,59,0,0" Grid.Row="2" VerticalAlignment="Top" Width="117" Click="Button_Click"/>
+
+
+
 
 
                 </Grid>

@@ -52,5 +52,22 @@ namespace DBProject2
                 this.WindowState = WindowState.Maximized;
             else this.WindowState = WindowState.Normal;
         }
+        private void btnAddExercise_Click(object sender,RoutedEventArgs e)
+        {
+
+        }
+        private void btnSaveWorkout_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void btnRemoveExercise_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
