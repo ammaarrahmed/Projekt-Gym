@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard_Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_ApproveGym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_GymPerfomance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_RevokeGym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="O_Managment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="O_MemberReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="O_AddTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="O_TrainerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="T_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="T_CreateDietPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="T_CreateWorkoutPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C_CreateWorkoutPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C_BrowseWorkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C_ApproveGym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C_DashboardCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C_GymPerfomance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C_RevokeGym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C_Feeback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="T_Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard_Trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="O_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="T_TrainerDietPlans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="T_TrainerWorkoutPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
