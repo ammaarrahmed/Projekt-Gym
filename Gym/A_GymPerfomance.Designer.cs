@@ -34,14 +34,13 @@
             // 
             // pictureBox1
             // 
-       //     pictureBox1.Image = Properties.Resources.white_performance_big;
-            pictureBox1.Location = new Point(325, 188);
+            pictureBox1.Location = new Point(427, 180);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(151, 168);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
-            // FrmGymPerformance
+            // A_GymPerfomance
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -49,7 +48,7 @@
             ClientSize = new Size(810, 511);
             Controls.Add(pictureBox1);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "FrmGymPerformance";
+            Name = "A_GymPerfomance";
             Text = "FrmGymPerformance";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);

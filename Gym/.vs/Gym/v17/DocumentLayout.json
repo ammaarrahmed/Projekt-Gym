@@ -1,1071 +1,131 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Y:\\Season 4\\DB\\Projekt\\Gym\\",
+  "WorkspaceRootPath": "C:\\Users\\AWAN\\Desktop\\Gym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|y:\\season 4\\db\\projekt\\gym\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmrevokegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmrevokegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmgymperformance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmgymperformance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmapprovegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmapprovegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\dashboard_trainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_trainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmgymperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmgymperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmapprovegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmapprovegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmrevokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmrevokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmrevokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmrevokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmgymperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmgymperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\frmapprovegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:frmapprovegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_createworkoutplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_createworkoutplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_gymperfomance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_gymperfomance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_trainerworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_trainerworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_trainerworkoutplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_trainerworkoutplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_trainerworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_trainerworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_trainerdietplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_trainerdietplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_trainerdietplans.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_trainerdietplans.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_trainerdietplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_trainerdietplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_feedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_feedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_createdietplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_createdietplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_createdietplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_createdietplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_createdietplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_createdietplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\dashboard_trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_appointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_appointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\t_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:t_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\dashboard_trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_revokegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_revokegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_gymperfomance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_gymperfomance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_gymperfomance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_gymperfomance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_feeback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_feeback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_feeback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_feeback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_feeback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_feeback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_dashboardcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_dashboardcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_dashboardcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_dashboardcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_dashboardcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_dashboardcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_createworkoutplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_createworkoutplan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_browseworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_browseworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_browseworkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_browseworkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_approvegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_approvegym.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_createworkoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_browseworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_browseworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\c_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:c_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\login_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:login_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\dashboard_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\dashboard_customer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_customer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|Y:\\Season 4\\DB\\Projekt\\Gym\\dashboard_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 245,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAjwIIAAAAAAAAA",
+              "Title": "Trainer_Reg.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
+              "RelativeDocumentMoniker": "Trainer_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
+              "RelativeToolTip": "Trainer_Reg.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAIAwwAQBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:06:07.801Z",
+              "WhenOpened": "2024-05-07T09:06:06.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmGymPerformance.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmGymPerformance.Designer.cs",
-              "RelativeDocumentMoniker": "FrmGymPerformance.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmGymPerformance.Designer.cs",
-              "RelativeToolTip": "FrmGymPerformance.Designer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAWwCQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:07:34.476Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmRevokeGym.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmRevokeGym.Designer.cs",
-              "RelativeDocumentMoniker": "FrmRevokeGym.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmRevokeGym.Designer.cs",
-              "RelativeToolTip": "FrmRevokeGym.Designer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAWwCQAAAAJAAAA",
+              "Title": "Trainer_Reg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
+              "RelativeDocumentMoniker": "Trainer_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs [Design]",
+              "RelativeToolTip": "Trainer_Reg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:07:40.103Z"
+              "WhenOpened": "2024-05-07T08:35:09.336Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmApproveGym.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmApproveGym.Designer.cs",
-              "RelativeDocumentMoniker": "FrmApproveGym.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmApproveGym.Designer.cs",
-              "RelativeToolTip": "FrmApproveGym.Designer.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAjwCQAAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "Member_Reg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs",
+              "RelativeDocumentMoniker": "Member_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs [Design]",
+              "RelativeToolTip": "Member_Reg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:06:42.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmDashBoard.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmDashBoard.Designer.cs",
-              "RelativeDocumentMoniker": "FrmDashBoard.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmDashBoard.Designer.cs",
-              "RelativeToolTip": "FrmDashBoard.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:07:24.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dashboard_Trainer.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Trainer.Designer.cs",
-              "RelativeDocumentMoniker": "Dashboard_Trainer.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Trainer.Designer.cs",
-              "RelativeToolTip": "Dashboard_Trainer.Designer.cs",
-              "ViewState": "AQIAAAUBAAAAAAAAAAAowOEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:45:15.346Z"
+              "WhenOpened": "2024-05-06T19:11:57.617Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Member_Reg.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs",
+              "RelativeDocumentMoniker": "Member_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs",
+              "RelativeToolTip": "Member_Reg.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAEwBIBAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:06:02.71Z"
+              "WhenOpened": "2024-05-06T19:14:15.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmDashBoard.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmDashBoard.cs",
-              "RelativeDocumentMoniker": "FrmDashBoard.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmDashBoard.cs [Design]",
-              "RelativeToolTip": "FrmDashBoard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:13:16.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmGymPerformance.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmGymPerformance.cs",
-              "RelativeDocumentMoniker": "FrmGymPerformance.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmGymPerformance.cs [Design]",
-              "RelativeToolTip": "FrmGymPerformance.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:11:59.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmDashBoard.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmDashBoard.cs",
-              "RelativeDocumentMoniker": "FrmDashBoard.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmDashBoard.cs",
-              "RelativeToolTip": "FrmDashBoard.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:13:42.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmApproveGym.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmApproveGym.cs",
-              "RelativeDocumentMoniker": "FrmApproveGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmApproveGym.cs [Design]",
-              "RelativeToolTip": "FrmApproveGym.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:10:29.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmRevokeGym.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmRevokeGym.cs",
-              "RelativeDocumentMoniker": "FrmRevokeGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmRevokeGym.cs",
-              "RelativeToolTip": "FrmRevokeGym.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:12:23.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrmRevokeGym.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmRevokeGym.cs",
-              "RelativeDocumentMoniker": "FrmRevokeGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmRevokeGym.cs [Design]",
-              "RelativeToolTip": "FrmRevokeGym.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:12:18.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FrmGymPerformance.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmGymPerformance.cs",
-              "RelativeDocumentMoniker": "FrmGymPerformance.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmGymPerformance.cs",
-              "RelativeToolTip": "FrmGymPerformance.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:12:05.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FrmApproveGym.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmApproveGym.cs",
-              "RelativeDocumentMoniker": "FrmApproveGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\FrmApproveGym.cs",
-              "RelativeToolTip": "FrmApproveGym.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:10:35.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:06:30.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "T_TrainerWorkoutPlan.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerWorkoutPlan.cs",
-              "RelativeDocumentMoniker": "T_TrainerWorkoutPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerWorkoutPlan.cs",
-              "RelativeToolTip": "T_TrainerWorkoutPlan.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:56:11.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "T_TrainerWorkoutPlan.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerWorkoutPlan.cs",
-              "RelativeDocumentMoniker": "T_TrainerWorkoutPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerWorkoutPlan.cs [Design]",
-              "RelativeToolTip": "T_TrainerWorkoutPlan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:56:05.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "T_TrainerDietPlans.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerDietPlans.cs",
-              "RelativeDocumentMoniker": "T_TrainerDietPlans.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerDietPlans.cs",
-              "RelativeToolTip": "T_TrainerDietPlans.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:55:53.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "T_TrainerDietPlans.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerDietPlans.cs",
-              "RelativeDocumentMoniker": "T_TrainerDietPlans.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerDietPlans.cs [Design]",
-              "RelativeToolTip": "T_TrainerDietPlans.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:55:47.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "T_CreateWorkoutPlan.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateWorkoutPlan.cs",
-              "RelativeDocumentMoniker": "T_CreateWorkoutPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateWorkoutPlan.cs",
-              "RelativeToolTip": "T_CreateWorkoutPlan.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:55:28.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "C_GymPerfomance.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_GymPerfomance.Designer.cs",
-              "RelativeDocumentMoniker": "C_GymPerfomance.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_GymPerfomance.Designer.cs",
-              "RelativeToolTip": "C_GymPerfomance.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:37:11.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "T_CreateWorkoutPlan.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateWorkoutPlan.Designer.cs",
-              "RelativeDocumentMoniker": "T_CreateWorkoutPlan.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateWorkoutPlan.Designer.cs",
-              "RelativeToolTip": "T_CreateWorkoutPlan.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:48:10.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "T_CreateWorkoutPlan.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateWorkoutPlan.cs",
-              "RelativeDocumentMoniker": "T_CreateWorkoutPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateWorkoutPlan.cs [Design]",
-              "RelativeToolTip": "T_CreateWorkoutPlan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:55:10.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "T_CreateDietPlan.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateDietPlan.cs",
-              "RelativeDocumentMoniker": "T_CreateDietPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateDietPlan.cs",
-              "RelativeToolTip": "T_CreateDietPlan.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:54:45.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "T_TrainerWorkoutPlan.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerWorkoutPlan.Designer.cs",
-              "RelativeDocumentMoniker": "T_TrainerWorkoutPlan.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerWorkoutPlan.Designer.cs",
-              "RelativeToolTip": "T_TrainerWorkoutPlan.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:48:29.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "T_CreateDietPlan.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateDietPlan.cs",
-              "RelativeDocumentMoniker": "T_CreateDietPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateDietPlan.cs [Design]",
-              "RelativeToolTip": "T_CreateDietPlan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:54:33.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "T_CreateDietPlan.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateDietPlan.Designer.cs",
-              "RelativeDocumentMoniker": "T_CreateDietPlan.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_CreateDietPlan.Designer.cs",
-              "RelativeToolTip": "T_CreateDietPlan.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:47:53.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "T_TrainerDietPlans.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerDietPlans.Designer.cs",
-              "RelativeDocumentMoniker": "T_TrainerDietPlans.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_TrainerDietPlans.Designer.cs",
-              "RelativeToolTip": "T_TrainerDietPlans.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:48:23.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Dashboard_Trainer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Trainer.cs",
-              "RelativeDocumentMoniker": "Dashboard_Trainer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Trainer.cs",
-              "RelativeToolTip": "Dashboard_Trainer.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAWwFsAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:47:03.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "T_Feedback.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Feedback.Designer.cs",
-              "RelativeDocumentMoniker": "T_Feedback.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Feedback.Designer.cs",
-              "RelativeToolTip": "T_Feedback.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:48:19.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "T_Feedback.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Feedback.cs",
-              "RelativeDocumentMoniker": "T_Feedback.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Feedback.cs [Design]",
-              "RelativeToolTip": "T_Feedback.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:44:51.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "T_Appointment.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Appointment.Designer.cs",
-              "RelativeDocumentMoniker": "T_Appointment.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Appointment.Designer.cs",
-              "RelativeToolTip": "T_Appointment.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:46:17.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "T_Feedback.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Feedback.cs",
-              "RelativeDocumentMoniker": "T_Feedback.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Feedback.cs",
-              "RelativeToolTip": "T_Feedback.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:49:00.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "T_Appointment.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Appointment.cs",
-              "RelativeDocumentMoniker": "T_Appointment.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Appointment.cs",
-              "RelativeToolTip": "T_Appointment.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:46:51.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "T_Appointment.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Appointment.cs",
-              "RelativeDocumentMoniker": "T_Appointment.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\T_Appointment.cs [Design]",
-              "RelativeToolTip": "T_Appointment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:46:35.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Dashboard_Trainer.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Trainer.cs",
-              "RelativeDocumentMoniker": "Dashboard_Trainer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Trainer.cs [Design]",
-              "RelativeToolTip": "Dashboard_Trainer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:45:12.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "C_RevokeGym.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_RevokeGym.cs",
-              "RelativeDocumentMoniker": "C_RevokeGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_RevokeGym.cs",
-              "RelativeToolTip": "C_RevokeGym.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:40:21.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "C_RevokeGym.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_RevokeGym.cs",
-              "RelativeDocumentMoniker": "C_RevokeGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_RevokeGym.cs [Design]",
-              "RelativeToolTip": "C_RevokeGym.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:40:16.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "C_GymPerfomance.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_GymPerfomance.cs",
-              "RelativeDocumentMoniker": "C_GymPerfomance.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_GymPerfomance.cs",
-              "RelativeToolTip": "C_GymPerfomance.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:39:59.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "C_GymPerfomance.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_GymPerfomance.cs",
-              "RelativeDocumentMoniker": "C_GymPerfomance.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_GymPerfomance.cs [Design]",
-              "RelativeToolTip": "C_GymPerfomance.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:39:53.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "C_Feeback.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_Feeback.cs",
-              "RelativeDocumentMoniker": "C_Feeback.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_Feeback.cs",
-              "RelativeToolTip": "C_Feeback.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:39:48.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "C_Feeback.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_Feeback.cs",
-              "RelativeDocumentMoniker": "C_Feeback.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_Feeback.cs [Design]",
-              "RelativeToolTip": "C_Feeback.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:39:43.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "C_DashboardCustomer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_DashboardCustomer.cs",
-              "RelativeDocumentMoniker": "C_DashboardCustomer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_DashboardCustomer.cs",
-              "RelativeToolTip": "C_DashboardCustomer.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:39:14.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "C_DashboardCustomer.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_DashboardCustomer.cs",
-              "RelativeDocumentMoniker": "C_DashboardCustomer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_DashboardCustomer.cs [Design]",
-              "RelativeToolTip": "C_DashboardCustomer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:39:03.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "C_RevokeGym.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_RevokeGym.Designer.cs",
-              "RelativeDocumentMoniker": "C_RevokeGym.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_RevokeGym.Designer.cs",
-              "RelativeToolTip": "C_RevokeGym.Designer.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:37:16.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "C_CreateWorkoutPlan.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_CreateWorkoutPlan.cs",
-              "RelativeDocumentMoniker": "C_CreateWorkoutPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_CreateWorkoutPlan.cs",
-              "RelativeToolTip": "C_CreateWorkoutPlan.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:37:56.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "C_BrowseWorkout.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_BrowseWorkout.cs",
-              "RelativeDocumentMoniker": "C_BrowseWorkout.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_BrowseWorkout.cs",
-              "RelativeToolTip": "C_BrowseWorkout.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAjwAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:37:46.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "C_ApproveGym.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_ApproveGym.cs",
-              "RelativeDocumentMoniker": "C_ApproveGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_ApproveGym.cs",
-              "RelativeToolTip": "C_ApproveGym.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:37:36.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "C_Feeback.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_Feeback.Designer.cs",
-              "RelativeDocumentMoniker": "C_Feeback.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_Feeback.Designer.cs",
-              "RelativeToolTip": "C_Feeback.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:37:07.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "C_DashboardCustomer.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_DashboardCustomer.Designer.cs",
-              "RelativeDocumentMoniker": "C_DashboardCustomer.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_DashboardCustomer.Designer.cs",
-              "RelativeToolTip": "C_DashboardCustomer.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:37:02.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "C_CreateWorkoutPlan.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_CreateWorkoutPlan.Designer.cs",
-              "RelativeDocumentMoniker": "C_CreateWorkoutPlan.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_CreateWorkoutPlan.Designer.cs",
-              "RelativeToolTip": "C_CreateWorkoutPlan.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:36:57.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "C_BrowseWorkout.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_BrowseWorkout.Designer.cs",
-              "RelativeDocumentMoniker": "C_BrowseWorkout.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_BrowseWorkout.Designer.cs",
-              "RelativeToolTip": "C_BrowseWorkout.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:36:51.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "C_CreateWorkoutPlan.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_CreateWorkoutPlan.cs",
-              "RelativeDocumentMoniker": "C_CreateWorkoutPlan.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_CreateWorkoutPlan.cs [Design]",
-              "RelativeToolTip": "C_CreateWorkoutPlan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:36:56.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "C_ApproveGym.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_ApproveGym.Designer.cs",
-              "RelativeDocumentMoniker": "C_ApproveGym.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_ApproveGym.Designer.cs",
-              "RelativeToolTip": "C_ApproveGym.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:36:38.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "C_BrowseWorkout.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_BrowseWorkout.cs",
-              "RelativeDocumentMoniker": "C_BrowseWorkout.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_BrowseWorkout.cs [Design]",
-              "RelativeToolTip": "C_BrowseWorkout.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:36:49.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "C_ApproveGym.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_ApproveGym.cs",
-              "RelativeDocumentMoniker": "C_ApproveGym.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\C_ApproveGym.cs [Design]",
-              "RelativeToolTip": "C_ApproveGym.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:36:37.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Registration.cs",
-              "RelativeDocumentMoniker": "Registration.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Registration.cs",
-              "RelativeToolTip": "Registration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:27:45.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "Registration.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Registration.Designer.cs",
-              "RelativeDocumentMoniker": "Registration.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Registration.Designer.cs",
-              "RelativeToolTip": "Registration.Designer.cs",
-              "ViewState": "AQIAAHkBAAAAAAAAAAAjwIgBAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:27:30.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Registration.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Registration.cs",
-              "RelativeDocumentMoniker": "Registration.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Registration.cs [Design]",
-              "RelativeToolTip": "Registration.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:26:48.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 4,
               "Title": "Login_Page.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Login_Page.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs",
               "RelativeDocumentMoniker": "Login_Page.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Login_Page.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs",
               "RelativeToolTip": "Login_Page.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAD4vwoAAAANAAAA",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAewAgBAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:23:37.647Z"
+              "WhenOpened": "2024-05-05T22:08:46.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 5,
               "Title": "Login_Page.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Login_Page.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs",
               "RelativeDocumentMoniker": "Login_Page.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Login_Page.cs [Design]",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs [Design]",
               "RelativeToolTip": "Login_Page.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:24:02.255Z"
+              "WhenOpened": "2024-05-05T21:59:43.589Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Login_Page.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Login_Page.Designer.cs",
-              "RelativeDocumentMoniker": "Login_Page.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Login_Page.Designer.cs",
-              "RelativeToolTip": "Login_Page.Designer.cs",
-              "ViewState": "AQIAAOAAAAAAAAAAAAAAAIsAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:23:38.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Dashboard_Customer.cs [Design]",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Customer.cs",
-              "RelativeDocumentMoniker": "Dashboard_Customer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Customer.cs [Design]",
-              "RelativeToolTip": "Dashboard_Customer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:19:20.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:18:37.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Dashboard_Customer.Designer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Customer.Designer.cs",
-              "RelativeDocumentMoniker": "Dashboard_Customer.Designer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Customer.Designer.cs",
-              "RelativeToolTip": "Dashboard_Customer.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:15:47.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Dashboard_Customer.cs",
-              "DocumentMoniker": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Customer.cs",
-              "RelativeDocumentMoniker": "Dashboard_Customer.cs",
-              "ToolTip": "Y:\\Season 4\\DB\\Projekt\\Gym\\Dashboard_Customer.cs",
-              "RelativeToolTip": "Dashboard_Customer.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAASwDcAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:15:27.008Z"
+              "DocumentIndex": 6,
+              "Title": "Gym",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Gym.csproj",
+              "RelativeDocumentMoniker": "Gym.csproj",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Gym.csproj",
+              "RelativeToolTip": "Gym.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T21:56:56.428Z"
             }
           ]
         }

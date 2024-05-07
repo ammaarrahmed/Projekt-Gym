@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Season 4\\DB\\Projekt\\Gym\\Gym.csproj": {}
+    "C:\\Users\\AWAN\\Desktop\\Gym\\Gym.csproj": {}
   },
   "projects": {
-    "Y:\\Season 4\\DB\\Projekt\\Gym\\Gym.csproj": {
+    "C:\\Users\\AWAN\\Desktop\\Gym\\Gym.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Season 4\\DB\\Projekt\\Gym\\Gym.csproj",
+        "projectUniqueName": "C:\\Users\\AWAN\\Desktop\\Gym\\Gym.csproj",
         "projectName": "Gym",
-        "projectPath": "Y:\\Season 4\\DB\\Projekt\\Gym\\Gym.csproj",
-        "packagesPath": "C:\\Users\\iamum\\.nuget\\packages\\",
-        "outputPath": "Y:\\Season 4\\DB\\Projekt\\Gym\\obj\\",
+        "projectPath": "C:\\Users\\AWAN\\Desktop\\Gym\\Gym.csproj",
+        "packagesPath": "C:\\Users\\AWAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AWAN\\Desktop\\Gym\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\iamum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AWAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +48,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

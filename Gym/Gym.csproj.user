@@ -19,6 +19,9 @@
     <Compile Update="A_RevokeGym.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Member_Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="O_Managment.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -29,6 +32,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="O_TrainerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer_Reg.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="T_Appointment.cs">
