@@ -106,3 +106,7 @@ C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\Gym.csproj.AssemblyReference.
 C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\Gym.csproj.Up2Date
 C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\Gym.Member_Reg.resources
 C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\Gym.Trainer_Reg.resources
+C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\Gym.Admin_Reg.resources
+C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\Gym.Owner_Reg.resources
+C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\Gym.C_DashboardCustomer.resources
+C:\Users\AWAN\Desktop\Gym\obj\Debug\net8.0-windows\UI_FOR_ADMIN.Dashboard_Admin.resources

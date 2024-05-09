@@ -410,6 +410,7 @@
             Name = "Trainer_Reg";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Trainer_Reg";
+            Load += Trainer_Reg_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
