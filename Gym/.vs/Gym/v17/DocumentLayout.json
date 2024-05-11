@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\AWAN\\Desktop\\Gym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\a_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:a_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\a_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:a_revokegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\a_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:a_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\a_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:a_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|c:\\users\\awan\\desktop\\gym\\a_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:a_approvegym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\admin_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:admin_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\admin_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:admin_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +47,30 @@
       "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\owner_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:owner_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\owner_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:owner_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:trainer_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:member_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|C:\\Users\\AWAN\\Desktop\\Gym\\gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A10F274C-BC5B-4FDB-8DF3-48380D65ED85}|Gym.csproj|solutionrelative:gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -34,90 +78,206 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 245,
+      "VerticalTabListWidth": 193,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Trainer_Reg.cs",
-              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
-              "RelativeDocumentMoniker": "Trainer_Reg.cs",
-              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
-              "RelativeToolTip": "Trainer_Reg.cs",
-              "ViewState": "AQIAAPcAAAAAAAAAAIAwwAQBAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "A_RevokeGym.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\A_RevokeGym.cs",
+              "RelativeDocumentMoniker": "A_RevokeGym.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\A_RevokeGym.cs",
+              "RelativeToolTip": "A_RevokeGym.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowIoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T09:06:06.607Z",
+              "WhenOpened": "2024-05-09T05:17:52.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "A_RevokeGym.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\A_RevokeGym.cs",
+              "RelativeDocumentMoniker": "A_RevokeGym.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\A_RevokeGym.cs [Design]",
+              "RelativeToolTip": "A_RevokeGym.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:14:58.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A_ApproveGym.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\A_ApproveGym.cs",
+              "RelativeDocumentMoniker": "A_ApproveGym.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\A_ApproveGym.cs",
+              "RelativeToolTip": "A_ApproveGym.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAQwLcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:50:31.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\A_Dashboard.cs",
+              "RelativeDocumentMoniker": "A_Dashboard.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\A_Dashboard.cs [Design]",
+              "RelativeToolTip": "A_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:13:47.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A_ApproveGym.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\A_ApproveGym.cs",
+              "RelativeDocumentMoniker": "A_ApproveGym.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\A_ApproveGym.cs [Design]",
+              "RelativeToolTip": "A_ApproveGym.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:52:21.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Dashboard_Admin.cs",
+              "RelativeDocumentMoniker": "Dashboard_Admin.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Dashboard_Admin.cs",
+              "RelativeToolTip": "Dashboard_Admin.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:57:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard_Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Dashboard_Admin.cs",
+              "RelativeDocumentMoniker": "Dashboard_Admin.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Dashboard_Admin.cs [Design]",
+              "RelativeToolTip": "Dashboard_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:56:48.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin_Reg.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Admin_Reg.cs",
+              "RelativeDocumentMoniker": "Admin_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Admin_Reg.cs",
+              "RelativeToolTip": "Admin_Reg.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowIAAAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:07:01.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin_Reg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Admin_Reg.cs",
+              "RelativeDocumentMoniker": "Admin_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Admin_Reg.cs [Design]",
+              "RelativeToolTip": "Admin_Reg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:00:42.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Owner_Reg.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Owner_Reg.cs",
+              "RelativeDocumentMoniker": "Owner_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Owner_Reg.cs",
+              "RelativeToolTip": "Owner_Reg.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAswLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:59:24.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Trainer_Reg.cs",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
+              "RelativeDocumentMoniker": "Trainer_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
+              "RelativeToolTip": "Trainer_Reg.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAYwJwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:06:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Trainer_Reg.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs",
               "RelativeDocumentMoniker": "Trainer_Reg.cs",
               "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Trainer_Reg.cs [Design]",
               "RelativeToolTip": "Trainer_Reg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T08:35:09.336Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-07T08:35:09.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Member_Reg.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs",
               "RelativeDocumentMoniker": "Member_Reg.cs",
               "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs [Design]",
               "RelativeToolTip": "Member_Reg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T19:11:57.617Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-06T19:11:57.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Member_Reg.cs",
               "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs",
               "RelativeDocumentMoniker": "Member_Reg.cs",
               "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Member_Reg.cs",
               "RelativeToolTip": "Member_Reg.cs",
-              "ViewState": "AQIAAPsAAAAAAAAAAAAEwBIBAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T19:14:15.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T19:14:15.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Login_Page.cs",
               "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs",
               "RelativeDocumentMoniker": "Login_Page.cs",
               "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs",
               "RelativeToolTip": "Login_Page.cs",
-              "ViewState": "AQIAAO8AAAAAAAAAAAAewAgBAAAjAAAA",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAkwPcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T22:08:46.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T22:08:46.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Login_Page.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs",
               "RelativeDocumentMoniker": "Login_Page.cs",
               "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Login_Page.cs [Design]",
               "RelativeToolTip": "Login_Page.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T21:59:43.589Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-05T21:59:43.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Gym",
               "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Gym.csproj",
               "RelativeDocumentMoniker": "Gym.csproj",
@@ -126,6 +286,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-05T21:56:56.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Owner_Reg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AWAN\\Desktop\\Gym\\Owner_Reg.cs",
+              "RelativeDocumentMoniker": "Owner_Reg.cs",
+              "ToolTip": "C:\\Users\\AWAN\\Desktop\\Gym\\Owner_Reg.cs [Design]",
+              "RelativeToolTip": "Owner_Reg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:51:19.409Z"
             }
           ]
         }

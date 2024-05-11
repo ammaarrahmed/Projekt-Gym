@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Dashboard_Admin));
             panel1 = new Panel();
+            BtnGymPerformance = new Button();
             pnlNav = new Panel();
             btnlogout = new Button();
             btnRemoveGym = new Button();
@@ -41,7 +42,7 @@
             pictureBox1 = new PictureBox();
             PnlfrmLoader = new Panel();
             lblTitle = new Label();
-            BtnGymPerformance = new Button();
+            label2 = new Label();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
@@ -49,6 +50,7 @@
             // 
             // panel1
             // 
+            panel1.BackColor = Color.Gold;
             panel1.Controls.Add(BtnGymPerformance);
             panel1.Controls.Add(pnlNav);
             panel1.Controls.Add(btnlogout);
@@ -59,12 +61,31 @@
             panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(186, 589);
+            panel1.Size = new Size(186, 806);
             panel1.TabIndex = 0;
+            panel1.Paint += panel1_Paint;
+            // 
+            // BtnGymPerformance
+            // 
+            BtnGymPerformance.Dock = DockStyle.Top;
+            BtnGymPerformance.FlatAppearance.BorderSize = 0;
+            BtnGymPerformance.FlatStyle = FlatStyle.Flat;
+            BtnGymPerformance.Font = new Font("Arial", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            BtnGymPerformance.ForeColor = Color.Black;
+            BtnGymPerformance.Image = Gym.Properties.Resources.black_performance;
+            BtnGymPerformance.ImageAlign = ContentAlignment.MiddleRight;
+            BtnGymPerformance.Location = new Point(0, 361);
+            BtnGymPerformance.Name = "BtnGymPerformance";
+            BtnGymPerformance.Size = new Size(186, 64);
+            BtnGymPerformance.TabIndex = 8;
+            BtnGymPerformance.Text = "Gym Performance";
+            BtnGymPerformance.TextImageRelation = TextImageRelation.TextBeforeImage;
+            BtnGymPerformance.UseVisualStyleBackColor = true;
+            BtnGymPerformance.Click += BtnGymPerformance_Click;
             // 
             // pnlNav
             // 
-            pnlNav.BackColor = Color.FromArgb(0, 126, 249);
+            pnlNav.BackColor = Color.Black;
             pnlNav.Location = new Point(3, 205);
             pnlNav.Name = "pnlNav";
             pnlNav.Size = new Size(3, 200);
@@ -75,9 +96,9 @@
             btnlogout.FlatAppearance.BorderSize = 0;
             btnlogout.FlatStyle = FlatStyle.Flat;
             btnlogout.Font = new Font("Arial", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnlogout.ForeColor = Color.FromArgb(0, 126, 249);
+            btnlogout.ForeColor = Color.Black;
             btnlogout.Image = (Image)resources.GetObject("btnlogout.Image");
-            btnlogout.Location = new Point(0, 531);
+            btnlogout.Location = new Point(3, 739);
             btnlogout.Name = "btnlogout";
             btnlogout.Size = new Size(183, 55);
             btnlogout.TabIndex = 7;
@@ -92,10 +113,10 @@
             btnRemoveGym.FlatAppearance.BorderSize = 0;
             btnRemoveGym.FlatStyle = FlatStyle.Flat;
             btnRemoveGym.Font = new Font("Arial", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnRemoveGym.ForeColor = Color.FromArgb(0, 126, 249);
-            btnRemoveGym.Image = (Image)resources.GetObject("btnRemoveGym.Image");
+            btnRemoveGym.ForeColor = Color.Black;
+            btnRemoveGym.Image = Gym.Properties.Resources.remove_black_gym;
             btnRemoveGym.ImageAlign = ContentAlignment.MiddleRight;
-            btnRemoveGym.Location = new Point(0, 268);
+            btnRemoveGym.Location = new Point(0, 297);
             btnRemoveGym.Name = "btnRemoveGym";
             btnRemoveGym.Size = new Size(186, 64);
             btnRemoveGym.TabIndex = 3;
@@ -110,9 +131,9 @@
             btnGymRequest.FlatAppearance.BorderSize = 0;
             btnGymRequest.FlatStyle = FlatStyle.Flat;
             btnGymRequest.Font = new Font("Arial", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnGymRequest.ForeColor = Color.FromArgb(0, 126, 249);
-            btnGymRequest.Image = (Image)resources.GetObject("btnGymRequest.Image");
-            btnGymRequest.Location = new Point(0, 205);
+            btnGymRequest.ForeColor = Color.Black;
+            btnGymRequest.Image = Gym.Properties.Resources.black_request;
+            btnGymRequest.Location = new Point(0, 234);
             btnGymRequest.Name = "btnGymRequest";
             btnGymRequest.Size = new Size(186, 63);
             btnGymRequest.TabIndex = 4;
@@ -126,10 +147,10 @@
             btnDashBoard.Dock = DockStyle.Top;
             btnDashBoard.FlatAppearance.BorderSize = 0;
             btnDashBoard.FlatStyle = FlatStyle.Flat;
-            btnDashBoard.Font = new Font("Arial", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnDashBoard.ForeColor = Color.FromArgb(0, 126, 249);
-       //     btnDashBoard.Image = Properties.Resources.blue_home;
-            btnDashBoard.Location = new Point(0, 144);
+            btnDashBoard.Font = new Font("Arial", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnDashBoard.ForeColor = Color.Black;
+            btnDashBoard.Image = Gym.Properties.Resources.black_home;
+            btnDashBoard.Location = new Point(0, 173);
             btnDashBoard.Name = "btnDashBoard";
             btnDashBoard.Size = new Size(186, 61);
             btnDashBoard.TabIndex = 6;
@@ -140,13 +161,14 @@
             // 
             // panel2
             // 
+            panel2.BackColor = Color.Black;
             panel2.Controls.Add(PnlFormLoader);
             panel2.Controls.Add(label1);
             panel2.Controls.Add(pictureBox1);
             panel2.Dock = DockStyle.Top;
             panel2.Location = new Point(0, 0);
             panel2.Name = "panel2";
-            panel2.Size = new Size(186, 144);
+            panel2.Size = new Size(186, 173);
             panel2.TabIndex = 1;
             // 
             // PnlFormLoader
@@ -160,28 +182,29 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Arial", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.FromArgb(0, 156, 149);
-            label1.Location = new Point(38, 92);
+            label1.ForeColor = Color.Gold;
+            label1.Location = new Point(37, 92);
             label1.Name = "label1";
             label1.Size = new Size(113, 24);
             label1.TabIndex = 1;
             label1.Text = "User Name";
+            label1.Click += label1_Click;
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(60, 22);
+            pictureBox1.Image = Gym.Properties.Resources.USER_PROFILE_GOLD;
+            pictureBox1.Location = new Point(64, 29);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(62, 67);
+            pictureBox1.Size = new Size(46, 60);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
             // PnlfrmLoader
             // 
             PnlfrmLoader.Dock = DockStyle.Bottom;
-            PnlfrmLoader.Location = new Point(186, 78);
+            PnlfrmLoader.Location = new Point(186, 106);
             PnlfrmLoader.Name = "PnlfrmLoader";
-            PnlfrmLoader.Size = new Size(807, 511);
+            PnlfrmLoader.Size = new Size(1241, 700);
             PnlfrmLoader.TabIndex = 3;
             // 
             // lblTitle
@@ -195,35 +218,30 @@
             lblTitle.TabIndex = 4;
             lblTitle.Text = "DashBoard";
             // 
-            // btnGymPerformance
+            // label2
             // 
-            BtnGymPerformance.Dock = DockStyle.Top;
-            BtnGymPerformance.FlatAppearance.BorderSize = 0;
-            BtnGymPerformance.FlatStyle = FlatStyle.Flat;
-            BtnGymPerformance.Font = new Font("Arial", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            BtnGymPerformance.ForeColor = Color.FromArgb(0, 126, 249);
-            BtnGymPerformance.Image = (Image)resources.GetObject("btnGymPerformance.Image");
-            BtnGymPerformance.ImageAlign = ContentAlignment.MiddleRight;
-            BtnGymPerformance.Location = new Point(0, 332);
-            BtnGymPerformance.Name = "btnGymPerformance";
-            BtnGymPerformance.Size = new Size(186, 64);
-            BtnGymPerformance.TabIndex = 8;
-            BtnGymPerformance.Text = "Gym Performance";
-            BtnGymPerformance.TextImageRelation = TextImageRelation.TextBeforeImage;
-            BtnGymPerformance.UseVisualStyleBackColor = true;
-            BtnGymPerformance.Click += this.BtnGymPerformance_Click;
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe Script", 14F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.Gold;
+            label2.Location = new Point(1078, 29);
+            label2.Name = "label2";
+            label2.Size = new Size(236, 46);
+            label2.TabIndex = 5;
+            label2.Text = "yes yes flexing";
             // 
-            // Form1
+            // Dashboard_Admin
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(46, 51, 73);
-            ClientSize = new Size(993, 589);
+            BackColor = Color.Black;
+            ClientSize = new Size(1427, 806);
+            Controls.Add(label2);
             Controls.Add(lblTitle);
             Controls.Add(PnlfrmLoader);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "Form1";
+            Name = "Dashboard_Admin";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             panel1.ResumeLayout(false);
@@ -250,6 +268,6 @@
         private Button btnlogout;
         private Label lblTitle;
         private Button BtnGymPerformance;
-
+        private Label label2;
     }
 }

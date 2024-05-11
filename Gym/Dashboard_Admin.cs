@@ -1,16 +1,33 @@
 using Gym;
+using System.Data.SqlClient;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+using Microsoft.Data.SqlClient;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace UI_FOR_ADMIN
 {
     public partial class Dashboard_Admin : Form
     {
-        public Dashboard_Admin()
+        SqlConnection con = new SqlConnection("Data Source=DESKTOP-S1SQUE8\\SQLEXPRESS;Initial Catalog=FLEXTRAINER;Integrated Security=True;Trust Server Certificate=True");
+        public Dashboard_Admin(string fullname)
         {
             InitializeComponent();
+            label1.Text=fullname;
+
+
             pnlNav.Height = btnDashBoard.Height;
             pnlNav.Top = btnDashBoard.Top;
             pnlNav.Left = btnDashBoard.Left;
-            btnDashBoard.BackColor = Color.FromArgb(46, 51, 73);
+            btnDashBoard.BackColor = Color.FromArgb(255,215,0);
 
             lblTitle.Text = "DashBoard";
             this.PnlfrmLoader.Controls.Clear();
@@ -30,7 +47,7 @@ namespace UI_FOR_ADMIN
             pnlNav.Height = btnDashBoard.Height;
             pnlNav.Top = btnDashBoard.Top;
             pnlNav.Left = btnDashBoard.Left;
-            btnDashBoard.BackColor = Color.FromArgb(46, 51, 73);
+            btnDashBoard.BackColor = Color.FromArgb(255, 215, 0);
 
             lblTitle.Text = "DashBoard";
             this.PnlfrmLoader.Controls.Clear();
@@ -46,7 +63,7 @@ namespace UI_FOR_ADMIN
             pnlNav.Height = BtnGymPerformance.Height;
             pnlNav.Top = BtnGymPerformance.Top;
 
-            BtnGymPerformance.BackColor = Color.FromArgb(46, 51, 73);
+            BtnGymPerformance.BackColor = Color.FromArgb(255, 215, 0);
 
             lblTitle.Text = "Gym Performance";
             this.PnlfrmLoader.Controls.Clear();
@@ -62,7 +79,7 @@ namespace UI_FOR_ADMIN
             pnlNav.Height = btnGymRequest.Height;
             pnlNav.Top = btnGymRequest.Top;
 
-            btnGymRequest.BackColor = Color.FromArgb(46, 51, 73);
+            btnGymRequest.BackColor = Color.FromArgb(255, 215, 0);
 
             lblTitle.Text = "Gym Request";
             this.PnlfrmLoader.Controls.Clear();
@@ -77,7 +94,7 @@ namespace UI_FOR_ADMIN
             pnlNav.Height = btnRemoveGym.Height;
             pnlNav.Top = btnRemoveGym.Top;
 
-            btnRemoveGym.BackColor = Color.FromArgb(46, 51, 73);
+            btnRemoveGym.BackColor = Color.FromArgb(255, 215, 0);
 
             lblTitle.Text = "Revoke Membership";
             this.PnlfrmLoader.Controls.Clear();
@@ -92,6 +109,14 @@ namespace UI_FOR_ADMIN
             Application.Exit();
         }
 
-       
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -266,5 +266,10 @@ namespace Gym
             new Login_Page().Show();
             this.Hide();
         }
+
+        private void Trainer_Reg_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

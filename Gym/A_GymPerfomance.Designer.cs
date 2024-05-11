@@ -44,7 +44,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(46, 51, 73);
+            BackColor = Color.Black;
             ClientSize = new Size(810, 511);
             Controls.Add(pictureBox1);
             FormBorderStyle = FormBorderStyle.None;

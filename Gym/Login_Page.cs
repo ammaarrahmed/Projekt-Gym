@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using Microsoft.Data.SqlClient;
+using UI_FOR_ADMIN;
 
 namespace Gym
 {
@@ -144,6 +145,7 @@ namespace Gym
                                 MessageBox.Show("Login successful.");
                                 // Continue to the next part of your application
                                 con.Close();
+
                             }
                             else
                             {
@@ -238,6 +240,10 @@ namespace Gym
                                 MessageBox.Show("Login successful.");
                                 // Continue to the next part of your application
                                 con.Close();
+                                string fullName = GetFullName(txtusername.Text);
+                                Dashboard_Admin dashboardForm = new Dashboard_Admin(fullName);
+                                this.Hide();
+                                dashboardForm.Show();
                             }
                             else
                             {
@@ -256,6 +262,31 @@ namespace Gym
 
         }
 
+        private string GetFullName(string username)
+        {
+            string connectionString = "Data Source=DESKTOP-S1SQUE8\\SQLEXPRESS;Initial Catalog=FLEXTRAINER;Integrated Security=True;Trust Server Certificate=True";
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                conn.Open();
+                string query = "SELECT FirstName, LastName FROM [dbo].[FlexTrainerDataAdminCSV] WHERE Email = @Username";
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    cmd.Parameters.AddWithValue("@Username", username);
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            return reader["FirstName"].ToString() + " " + reader["LastName"].ToString();
+                        }
+                        else
+                        {
+                            return "User";
+                        }
+                    }
+                }
+            }
+        }
+
         private void button5_Click(object sender, EventArgs e)
         {
             if (comboBox1.Text == "")
@@ -271,6 +302,18 @@ namespace Gym
             else if (comboBox1.Text == "Trainer")
             {
                 new Trainer_Reg().Show();
+                this.Hide();
+            }
+
+            else if (comboBox1.Text == "Owner")
+            {
+                new Owner_Reg().Show();
+                this.Hide();
+            }
+
+            else if (comboBox1.Text == "Admin")
+            {
+                new Admin_Reg().Show();
                 this.Hide();
             }
 
