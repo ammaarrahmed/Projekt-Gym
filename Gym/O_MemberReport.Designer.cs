@@ -28,50 +28,55 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
-            pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            Refresh = new Button();
+            DataView = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)DataView).BeginInit();
             SuspendLayout();
             // 
-            // label1
+            // Refresh
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Microsoft Sans Serif", 20F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.White;
-            label1.Location = new Point(12, 25);
-            label1.Name = "label1";
-            label1.Size = new Size(183, 46);
-            label1.TabIndex = 0;
-            label1.Text = "Member ";
+            Refresh.BackColor = Color.Black;
+            Refresh.Cursor = Cursors.Hand;
+            Refresh.FlatStyle = FlatStyle.Flat;
+            Refresh.ForeColor = Color.Gold;
+            Refresh.Location = new Point(532, 623);
+            Refresh.Margin = new Padding(2);
+            Refresh.Name = "Refresh";
+            Refresh.Size = new Size(132, 43);
+            Refresh.TabIndex = 64;
+            Refresh.Text = "Refresh";
+            Refresh.UseVisualStyleBackColor = false;
+            Refresh.Click += Refresh_Click;
             // 
-            // pictureBox1
+            // DataView
             // 
-         //   pictureBox1.Image = Properties.Resources.white_report;
-            pictureBox1.Location = new Point(358, 12);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(111, 107);
-            pictureBox1.TabIndex = 1;
-            pictureBox1.TabStop = false;
+            DataView.BackgroundColor = SystemColors.ActiveCaptionText;
+            DataView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            DataView.GridColor = SystemColors.Info;
+            DataView.Location = new Point(100, 54);
+            DataView.Name = "DataView";
+            DataView.Size = new Size(973, 533);
+            DataView.TabIndex = 65;
             // 
-            // MemberReportF
+            // O_MemberReport
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(46, 51, 73);
-            ClientSize = new Size(810, 511);
-            Controls.Add(pictureBox1);
-            Controls.Add(label1);
+            BackColor = Color.Gold;
+            ClientSize = new Size(1164, 700);
+            Controls.Add(DataView);
+            Controls.Add(Refresh);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "MemberReportF";
+            Margin = new Padding(2);
+            Name = "O_MemberReport";
             Text = "MemberReportF";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)DataView).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
-        private Label label1;
-        private PictureBox pictureBox1;
+        private Button Refresh;
+        private DataGridView DataView;
     }
 }

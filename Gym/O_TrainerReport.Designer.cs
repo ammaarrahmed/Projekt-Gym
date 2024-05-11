@@ -28,20 +28,56 @@
         /// </summary>
         private void InitializeComponent()
         {
+            DataView = new DataGridView();
+            Refresh = new Button();
+            ((System.ComponentModel.ISupportInitialize)DataView).BeginInit();
             SuspendLayout();
             // 
-            // FrmTrainerReport
+            // DataView
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            DataView.BackgroundColor = SystemColors.ActiveCaptionText;
+            DataView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            DataView.GridColor = SystemColors.Info;
+            DataView.Location = new Point(68, 46);
+            DataView.Name = "DataView";
+            DataView.Size = new Size(973, 533);
+            DataView.TabIndex = 67;
+
+            // 
+            // Refresh
+            // 
+            Refresh.BackColor = Color.Black;
+            Refresh.Cursor = Cursors.Hand;
+            Refresh.FlatStyle = FlatStyle.Flat;
+            Refresh.ForeColor = Color.Gold;
+            Refresh.Location = new Point(500, 615);
+            Refresh.Margin = new Padding(2);
+            Refresh.Name = "Refresh";
+            Refresh.Size = new Size(132, 43);
+            Refresh.TabIndex = 66;
+            Refresh.Text = "Refresh";
+            Refresh.UseVisualStyleBackColor = false;
+            Refresh.Click += Refresh_Click;
+            // 
+            // O_TrainerReport
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(46, 51, 73);
-            ClientSize = new Size(800, 450);
+            BackColor = Color.Gold;
+            ClientSize = new Size(1146, 700);
+            Controls.Add(DataView);
+            Controls.Add(Refresh);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "FrmTrainerReport";
+            Margin = new Padding(2);
+            Name = "O_TrainerReport";
             Text = "FrmTrainerReport";
+            ((System.ComponentModel.ISupportInitialize)DataView).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
+
+        private DataGridView DataView;
+        private Button Refresh;
     }
 }

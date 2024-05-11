@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,32 @@ namespace Gym
         public O_MemberReport()
         {
             InitializeComponent();
+        }
+
+        void O_MemeberReport_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void Refresh_Click(object sender, EventArgs e)
+        {
+
+            using (SqlConnection con = new SqlConnection("Data Source=SANI-PC\\SQLEXPRESS;Initial Catalog=FLEXTRAINER;Integrated Security=True;Trust Server Certificate=True"))
+            {
+                con.Open();
+                SqlDataAdapter sda = new SqlDataAdapter("SELECT * FROM FlexTrainerDataMemberCSV", con);
+                DataTable dt = new DataTable();
+                sda.Fill(dt);
+                DataView.DataSource = dt;
+                dt.Columns.Remove("password");
+                // Change the data display color
+                DataView.DefaultCellStyle.ForeColor = Color.Goldenrod; // Change it to your desired color
+                DataView.DefaultCellStyle.BackColor = Color.Black; // Change it to your desired color
+
+                DataView.ColumnHeadersDefaultCellStyle.ForeColor = Color.BlueViolet; // Change it to your desired color
+                DataView.ColumnHeadersDefaultCellStyle.BackColor = Color.Black; // Change it to your desired color
+
+                DataView.GridColor = Color.Black; // Change it to your desired color
+            }
         }
     }
 }
